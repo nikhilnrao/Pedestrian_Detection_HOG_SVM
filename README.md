@@ -15,8 +15,7 @@ constraints.
 SVM Training
 1. The entire SVM Training has been implemented in the script ‘SVMTrain.m’.
 2. The script requires the descriptor .mat files, which were saved in Part A of the assignment, in
-the current folder of Matlab. This can be downloaded from:
-https://www.dropbox.com/s/kgrd805cusqc7mp/Descriptors.zip?dl=0
+the current folder of Matlab.
 3. Extract the zip folder contents to the current matlab folder and run the script ‘SVMTrain.m’
 4. Output of the quadprog is saved in the variable ‘Wb’
 
